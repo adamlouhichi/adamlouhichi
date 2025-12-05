@@ -36,8 +36,8 @@ I am constantly exploring new techniques and tools to solve real-world problems 
   <img 
     src="https://github.com/adamlouhichi/adamlouhichi/blob/main/téléchargé%20(4).png" 
     alt="ESPRIT School of Engineering Logo" 
-    width="120" 
-    style="margin-bottom: 15px;"
+    width="480" 
+    style="margin-bottom: 45px;"
   />
 </p>
 
