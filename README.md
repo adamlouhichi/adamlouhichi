@@ -1,10 +1,12 @@
 # Adam Louhichi
 
-**`Data Science Student | AI & ML Enthusiast`**
+<p align="center" style="font-size:20px; line-height:1.6;">
+<strong>Data Science Student | AI & ML Enthusiast</strong><br><br>
+I’m a Data Science student with a strong passion for creating impactful AI systems. I enjoy working on projects that transform raw data into actionable insights, whether it’s building predictive ML models, developing NLP agents, or deploying end-to-end data products.<br><br>
+I am constantly exploring new techniques and tools to solve real-world problems and contribute to meaningful projects in AI and data science.
+</p>
 
-I’m a Data Science student with a strong passion for creating impactful AI systems. I enjoy working on projects that transform raw data into actionable insights, whether it’s building predictive ML models, developing NLP agents, or deploying end-to-end data products. I am constantly exploring new techniques and tools to solve real-world problems and contribute to meaningful projects in AI and data science.
-
-<p align="left" style="margin-top:10px;">
+<p align="center" style="margin-top:20px; margin-bottom:40px;">
    <a href="https://www.linkedin.com/in/adam-louhichi1/" target="_blank">
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" /></a>
    &nbsp;&nbsp;
@@ -12,7 +14,8 @@ I’m a Data Science student with a strong passion for creating impactful AI sys
       <img alt="Email" title="Send me an email" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" /></a>
 </p>
 
-<hr>
+<!-- Add whitespace instead of a line -->
+<div style="height:50px;"></div>
 
 <h2 align="center">🔧 Tools of Trade</h2>
 
