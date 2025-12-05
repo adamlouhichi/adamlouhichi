@@ -15,6 +15,7 @@ I am constantly exploring new techniques and tools to solve real-world problems 
 
 
 
+
 <h2 align="center">Tools of Trade</h2>
 
 <p align="center">
@@ -29,6 +30,22 @@ I am constantly exploring new techniques and tools to solve real-world problems 
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
+<h2 align="center">Education</h2>
+
+<p align="center">
+  <img 
+    src="" 
+    alt="ESPRIT School of Engineering Logo" 
+    width="120" 
+    style="margin-bottom: 15px;"
+  />
+</p>
+
+<p align="center" style="font-size: 18px; line-height: 1.6;">
+  <strong>ESPRIT School of Engineering</strong><br>
+  Software Engineering Degree — Specialization in Data Science & AI<br>
+  <strong>Expected Graduation: June 2026</strong>
+</p>
 
 
 
