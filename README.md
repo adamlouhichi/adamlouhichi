@@ -1,4 +1,4 @@
-<h1 align="center"> 👋</h1>
+
 <div align="center">
   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
 </div>
@@ -20,11 +20,24 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Supabase-%2300AB6C.svg?&style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?&style=for-the-badge&logo=sql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GCP-%23f73f2c.svg?&style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/LLM-%23ff66cc.svg?&style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MLflow-%23000000.svg?&style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
+
+<hr>
 
 <p align="center">
 Tech I work with: Python, ML/DL, NLP, FastAPI, TensorFlow, Scikit-learn, Docker, SQL, GCP, Pandas, NumPy, React, Supabase, Git.
