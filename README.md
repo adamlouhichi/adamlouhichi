@@ -1,49 +1,34 @@
+# Adam Louhichi
 
-<div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>
+**`Data Science Student | AI & ML Enthusiast`**
 
-<p align="center">🇬🇧 English • <a href="#">🇫🇷 Français</a></p>
+I’m a Data Science student with a strong passion for creating impactful AI systems. I enjoy working on projects that transform raw data into actionable insights, whether it’s building predictive ML models, developing NLP agents, or deploying end-to-end data products. I am constantly exploring new techniques and tools to solve real-world problems and contribute to meaningful projects in AI and data science.
 
-<h2 align="center">👨‍💻 Who am I?</h2>
-<p align="center">
-  <samp>
-    I’m <strong>Adam Louhichi</strong>, a Data Science engineering student passionate about building impactful AI systems — from ML models to NLP agents and end-to-end data products. I love transforming real data into real results.
-  </samp>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=adam-louhichi1" />
+<p align="left" style="margin-top:10px;">
+   <a href="https://www.linkedin.com/in/adam-louhichi1/" target="_blank">
+      <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" /></a>
+   &nbsp;&nbsp;
+   <a href="mailto:adamlouhichi@gmail.com" target="_blank">
+      <img alt="Email" title="Send me an email" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" /></a>
 </p>
 
 <hr>
 
 <h2 align="center">🔧 Tools of Trade</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Supabase-%2300AB6C.svg?&style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?&style=for-the-badge&logo=sql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/GCP-%23f73f2c.svg?&style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/LLM-%23ff66cc.svg?&style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MLflow-%23000000.svg?&style=for-the-badge&logo=mlflow&logoColor=white" />
-</p>
-
-<hr>
 
 <p align="center">
-Tech I work with: Python, ML/DL, NLP, FastAPI, TensorFlow, Scikit-learn, Docker, SQL, GCP, Pandas, NumPy, React, Supabase, Git.
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/React-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=sql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GCP-%23f73f2c.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-<hr>
+
 
 <h2 align="center">🚀 Featured Projects</h2>
 
