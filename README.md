@@ -36,8 +36,8 @@ I am constantly exploring new techniques and tools to solve real-world problems 
   <img 
     src="https://github.com/adamlouhichi/adamlouhichi/blob/main/téléchargé%20(4).png" 
     alt="ESPRIT School of Engineering Logo" 
-    width="480" 
-    style="margin-bottom: 45px;"
+    width="360" 
+    style="margin-bottom: 30px;"
   />
 </p>
 
@@ -47,6 +47,37 @@ I am constantly exploring new techniques and tools to solve real-world problems 
   <strong>Expected Graduation: June 2026</strong>
 </p>
 
+<h2 align="center">Languages I Speak</h2>
+
+<p align="center">
+
+  <!-- Arabic -->
+  <a href="#" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Arabic-Native-%23D32F2F?style=for-the-badge&logo=googletranslate&logoColor=white" 
+      alt="Arabic Native" 
+    />
+  </a>
+  &nbsp;
+
+  <!-- English -->
+  <a href="https://www.linkedin.com/posts/adam-louhichi1_ielts-certification-communication-activity-7373020337950674944-pEFb" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/English-IELTS%207.5-%230072C6?style=for-the-badge&logo=britishairways&logoColor=white" 
+      alt="English IELTS 7.5" 
+    />
+  </a>
+  &nbsp;
+
+  <!-- French -->
+  <a href="https://www.linkedin.com/posts/adam-louhichi1_french-tcf-c1-activity-7375936592663838720-tKgf" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/French-TCF%20C1-%23E67E22?style=for-the-badge&logo=france&logoColor=white" 
+      alt="French TCF C1" 
+    />
+  </a>
+
+</p>
 
 
 <h2 align="center">Featured Projects</h2>
