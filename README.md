@@ -34,30 +34,33 @@ I am constantly exploring new techniques and tools to solve real-world problems 
 
 <h2 align="center">Certificates</h2>
 
-<table align="center" cellpadding="0" cellspacing="0" style="border-collapse: separate; border-spacing: 20px;">
-  <tr>
-    <!-- AWS -->
-    <td align="center" valign="top" style="border:1px solid #ddd; border-radius:12px; padding:20px; width:160px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
-      <a href="https://www.linkedin.com/posts/adam-louhichi1_aws-academy-graduate-cloud-foundations-activity-7391073752714903553-DK6g" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="100" style="border-radius:8px;" alt="AWS Badge">
-      </a>
-      <div style="margin-top:10px; font-weight:bold; font-size:14px;">AWS Cloud Foundations</div>
-    </td>
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:20px;">
 
-    <!-- NVIDIA -->
-    <td align="center" valign="top" style="border:1px solid #ddd; border-radius:12px; padding:20px; width:160px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
-      <a href="https://www.linkedin.com/posts/adam-louhichi1_im-happy-to-share-that-ive-obtained-a-new-activity-7383564437657522176-Bhio" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/2/21/Nvidia_logo.svg/1280px-Nvidia_logo.svg.png" width="100" style="border-radius:8px;" alt="NVIDIA">
-      </a>
-      <div style="margin-top:10px; font-weight:bold; font-size:14px;">NVIDIA Transformers NLP</div>
-    </td>
+  <!-- AWS -->
+  <div style="text-align:center; border:1px solid #ddd; border-radius:12px; padding:20px; width:160px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+    <a href="https://www.linkedin.com/posts/adam-louhichi1_aws-academy-graduate-cloud-foundations-activity-7391073752714903553-DK6g" target="_blank">
+      <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob"
+           width="100" style="border-radius:8px;" alt="AWS Badge">
+    </a>
+    <div style="margin-top:12px; font-weight:bold; font-size:14px;">AWS Cloud Foundations</div>
+  </div>
 
-    <!-- CCNA -->
-    <td align="center" valign="top" style="border:1px solid #ddd; border-radius:12px; padding:20px; width:160px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
-      <a href="https://www.credly.com/badges/23a3140e-ef09-4edf-87ed-dd3ae8fa8b42/public_url" target="_blank">
-        <img src="https://logodix.com/logo/2182064.jpg" width="100" style="border-radius:8px;" alt="CCNA">
-      </a>
-      <div style="margin-top:10px; font-weight:bold; font-size:14px;">Cisco CCNA SRWE</div>
-    </td>
-  </tr>
-</table>
+  <!-- NVIDIA -->
+  <div style="text-align:center; border:1px solid #ddd; border-radius:12px; padding:20px; width:160px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+    <a href="https://www.linkedin.com/posts/adam-louhichi1_im-happy-to-share-that-ive-obtained-a-new-activity-7383564437657522176-Bhio" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/2/21/Nvidia_logo.svg/1280px-Nvidia_logo.svg.png"
+           width="100" style="border-radius:8px;" alt="NVIDIA">
+    </a>
+    <div style="margin-top:12px; font-weight:bold; font-size:14px;">NVIDIA Transformers NLP</div>
+  </div>
+
+  <!-- CCNA -->
+  <div style="text-align:center; border:1px solid #ddd; border-radius:12px; padding:20px; width:160px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+    <a href="https://www.credly.com/badges/23a3140e-ef09-4edf-87ed-dd3ae8fa8b42/public_url" target="_blank">
+      <img src="https://logodix.com/logo/2182064.jpg"
+           width="100" style="border-radius:8px;" alt="CCNA">
+    </a>
+    <div style="margin-top:12px; font-weight:bold; font-size:14px;">Cisco CCNA SRWE</div>
+  </div>
+
+</div>
