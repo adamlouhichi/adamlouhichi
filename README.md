@@ -13,8 +13,6 @@ I am constantly exploring new techniques and tools to solve real-world problems 
       <img alt="Email" title="Send me an email" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" /></a>
 </p>
 
-
-
 <h2 align="center">Tools of Trade</h2>
 
 <p align="center">
@@ -27,6 +25,57 @@ I am constantly exploring new techniques and tools to solve real-world problems 
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/GCP-%23f73f2c.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+<h2 align="center">Education</h2>
+
+<p align="center">
+  <img 
+    src="https://github.com/adamlouhichi/adamlouhichi/blob/main/téléchargé%20(4).png" 
+    alt="ESPRIT School of Engineering Logo" 
+    width="360" 
+    style="margin-bottom: 30px;"
+  />
+</p>
+
+<p align="center" style="font-size: 18px; line-height: 1.6;">
+  <strong>ESPRIT School of Engineering</strong><br>
+  Software Engineering Degree — Specialization in Data Science & AI<br>
+  <strong>Expected Graduation: June 2026</strong>
+</p>
+
+<h2 align="center">Languages I Speak</h2>
+
+<p align="center">
+
+  <!-- Arabic -->
+  <a href="#" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Arabic-Native-%23D32F2F?style=for-the-badge&logo=googletranslate&logoColor=white" 
+      alt="Arabic Native" 
+    />
+  </a>
+  &nbsp;
+
+  <!-- English -->
+  <a href="https://www.linkedin.com/posts/adam-louhichi1_ielts-certification-communication-activity-7373020337950674944-pEFb" target="_blank">
+    <img 
+   src="https://img.shields.io/badge/English-Fluent%20(IELTS%207.5)-0072C6?style=for-the-badge&logo=britishairways&logoColor=white" 
+   alt="English Fluent IELTS 7.5" 
+ />
+
+  </a>
+  &nbsp;
+
+  <!-- French -->
+  <a href="https://www.linkedin.com/posts/adam-louhichi1_french-tcf-c1-activity-7375936592663838720-tKgf" target="_blank">
+     <img 
+   src="https://img.shields.io/badge/French-Fluent%20(TCF%20C1)-E67E22?style=for-the-badge&logo=france&logoColor=white" 
+   alt="French Fluent TCF C1" 
+ />
+
+  </a>
+
 </p>
 
 <h2 align="center">Professional Experience</h2>
@@ -105,8 +154,39 @@ Designed and implemented an intelligent email monitoring agent that automates th
 </tr>
 </table>
 
+<h2 align="center">Certifications</h2>
 
-
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/posts/adam-louhichi1_aws-academy-graduate-cloud-foundations-activity-7391073752714903553-DK6g" target="_blank">
+<img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="100" alt="AWS Badge"/>
+</a>
+<br><br>
+<strong>AWS Cloud Foundations</strong>
+<br>
+<sub>Amazon Web Services</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/posts/adam-louhichi1_im-happy-to-share-that-ive-obtained-a-new-activity-7383564437657522176-Bhio" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/sco/thumb/2/21/Nvidia_logo.svg/1280px-Nvidia_logo.svg.png" width="100" alt="NVIDIA"/>
+</a>
+<br><br>
+<strong>Transformers for NLP</strong>
+<br>
+<sub>NVIDIA Deep Learning Institute</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://www.credly.com/badges/23a3140e-ef09-4edf-87ed-dd3ae8fa8b42/public_url" target="_blank">
+<img src="https://logodix.com/logo/2182064.jpg" width="100" alt="CCNA"/>
+</a>
+<br><br>
+<strong>CCNA SRWE</strong>
+<br>
+<sub>Cisco Networking Academy</sub>
+</td>
+</tr>
+</table>
 
 <h2 align="center">Featured Projects</h2>
 
@@ -232,39 +312,3 @@ A deep learning system for automated classification of pulmonary conditions from
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-
----
-
-<h2 align="center">Certifications</h2>
-
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://www.linkedin.com/posts/adam-louhichi1_aws-academy-graduate-cloud-foundations-activity-7391073752714903553-DK6g" target="_blank">
-<img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="100" alt="AWS Badge"/>
-</a>
-<br><br>
-<strong>AWS Cloud Foundations</strong>
-<br>
-<sub>Amazon Web Services</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.linkedin.com/posts/adam-louhichi1_im-happy-to-share-that-ive-obtained-a-new-activity-7383564437657522176-Bhio" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/sco/thumb/2/21/Nvidia_logo.svg/1280px-Nvidia_logo.svg.png" width="100" alt="NVIDIA"/>
-</a>
-<br><br>
-<strong>Transformers for NLP</strong>
-<br>
-<sub>NVIDIA Deep Learning Institute</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.credly.com/badges/23a3140e-ef09-4edf-87ed-dd3ae8fa8b42/public_url" target="_blank">
-<img src="https://logodix.com/logo/2182064.jpg" width="100" alt="CCNA"/>
-</a>
-<br><br>
-<strong>CCNA SRWE</strong>
-<br>
-<sub>Cisco Networking Academy</sub>
-</td>
-</tr>
-</table>
