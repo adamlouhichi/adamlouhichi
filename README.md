@@ -204,7 +204,7 @@ An intelligent hiring platform designed to revolutionize recruitment workflows f
 - Streamlined job posting and application management
 - AI-organized candidate evaluation interface
 - Talent discovery system to identify high-potential candidates beyond active applicants
-- AI Follow-Up Agent powered by Amazon Lex with TTS/STT integration for automated candidate outreach
+- AI Follow-Up vocie Agent powered by Amazon Lex with TTS/STT integration for automated candidate outreach
 
 <p>
 <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" />
