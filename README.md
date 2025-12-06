@@ -64,7 +64,7 @@ I am constantly exploring new techniques and tools to solve real-world problems 
   <a href="https://www.linkedin.com/posts/adam-louhichi1_ielts-certification-communication-activity-7373020337950674944-pEFb" target="_blank">
     <img 
       src="https://img.shields.io/badge/English-IELTS%207.5-%230072C6?style=for-the-badge&logo=britishairways&logoColor=white" 
-      alt="English IELTS 7.5" 
+      alt="English Fluent IELTS 7.5" 
     />
   </a>
   &nbsp;
@@ -73,7 +73,7 @@ I am constantly exploring new techniques and tools to solve real-world problems 
   <a href="https://www.linkedin.com/posts/adam-louhichi1_french-tcf-c1-activity-7375936592663838720-tKgf" target="_blank">
     <img 
       src="https://img.shields.io/badge/French-TCF%20C1-%23E67E22?style=for-the-badge&logo=france&logoColor=white" 
-      alt="French TCF C1" 
+      alt="French Fluent TCF C1" 
     />
   </a>
 
