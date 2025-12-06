@@ -9,7 +9,7 @@ I am constantly exploring new techniques and tools to solve real-world problems 
    <a href="https://www.linkedin.com/in/adam-louhichi1/" target="_blank">
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" /></a>
    &nbsp;&nbsp;
-   <a href="mailto:adamlouhichi@gmail.com" target="_blank">
+   <a href="mailto:adamlouhichi3@gmail.com" target="_blank">
       <img alt="Email" title="Send me an email" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" /></a>
 </p>
 
