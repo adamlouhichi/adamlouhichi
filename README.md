@@ -15,7 +15,6 @@ I am constantly exploring new techniques and tools to solve real-world problems 
 
 
 
-
 <h2 align="center">Tools of Trade</h2>
 
 <p align="center">
@@ -30,56 +29,83 @@ I am constantly exploring new techniques and tools to solve real-world problems 
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-<h2 align="center">Education</h2>
+<h2 align="center">Professional Experience</h2>
 
-<p align="center">
-  <img 
-    src="https://github.com/adamlouhichi/adamlouhichi/blob/main/téléchargé%20(4).png" 
-    alt="ESPRIT School of Engineering Logo" 
-    width="360" 
-    style="margin-bottom: 30px;"
-  />
+<table>
+<tr>
+<td width="30%" align="center">
+<img src="https://media.licdn.com/dms/image/v2/D4E0BAQHNceD0yMjaIg/company-logo_200_200/B4EZWLBw7NHMAM-/0/1741794250810/datamed_consulting_logo?e=2147483647&v=beta&t=ggfj4_cmaKKs1kMKVib4klXFHeNqaZOENDqC0L9Pv-M" width="120" alt="DataMed"/>
+<br><br>
+<strong>Data Scientist Intern</strong>
+<br>
+<sub>DataMed</sub>
+<br>
+<sub>May 2025 - July 2025</sub>
+</td>
+<td width="70%">
+<strong>Intelligent Resume Matching & Talent Analytics Platform</strong>
+<br><br>
+Engineered an end-to-end AI-powered solution for automating resume processing and candidate-job matching at scale. The system processes thousands of CVs, extracts structured data, and matches candidates to job descriptions with intelligent scoring.
+<br><br>
+<strong>Key Contributions:</strong>
+<ul>
+<li>Developed LLM-based pipelines with advanced batching and filtering strategies to extract structured information from unstructured CVs, reducing processing time by 50%</li>
+<li>Optimized infrastructure costs by migrating to a more cost-efficient LLM API, achieving ~60% cost reduction while maintaining high-quality extraction and matching results</li>
+<li>Built and deployed a FastAPI microservice on Google Cloud Platform, integrating seamlessly with the existing HR platform to enable scalable, automated talent analytics workflows</li>
+<li>Implemented scoring algorithms for candidate-job matching, enabling data-driven hiring decisions</li>
+</ul>
+<p>
+<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-%23f73f2c.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-%234285F4.svg?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=googleassistant&logoColor=white" />
 </p>
+</td>
+</tr>
+</table>
 
-<p align="center" style="font-size: 18px; line-height: 1.6;">
-  <strong>ESPRIT School of Engineering</strong><br>
-  Software Engineering Degree — Specialization in Data Science & AI<br>
-  <strong>Expected Graduation: June 2026</strong>
+<br>
+
+<table>
+<tr>
+<td width="30%" align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO6V9Q5KCv2x-L1YrxnVDUwoEOykp35L4MTQ&s" width="120" alt="Huawei"/>
+<br><br>
+<strong>Data Scientist Intern</strong>
+<br>
+<sub>Huawei</sub>
+<br>
+<sub>June 2024 - August 2024</sub>
+</td>
+<td width="70%">
+<strong>Automated HR Email Monitoring & KPI Tracking System</strong>
+<br><br>
+Designed and implemented an intelligent email monitoring agent that automates the extraction, processing, and analysis of HR-related communications, transforming unstructured email data into actionable insights.
+<br><br>
+<strong>Key Contributions:</strong>
+<ul>
+<li>Built a Flask API integrated with Microsoft Outlook to automatically parse HR emails using Named Entity Recognition (NER) and pattern matching techniques</li>
+<li>Developed NLP pipelines to extract critical fields including incident type, urgency level, assignee information, and deadlines from unstructured email content</li>
+<li>Designed and implemented a structured SQL database schema to store extracted data, enabling efficient querying and historical analysis</li>
+<li>Created an automated monthly reporting pipeline with Google Drive integration for document management and distribution</li>
+<li>Built real-time Power BI dashboards to visualize operational metrics and SLA compliance, providing non-technical stakeholders with clear, actionable insights</li>
+<li>Significantly reduced manual documentation effort, enabling faster decision-making across regional support teams</li>
+</ul>
+<p>
+<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=googleassistant&logoColor=white" />
 </p>
+</td>
+</tr>
+</table>
 
-<h2 align="center">Languages I Speak</h2>
 
-<p align="center">
-
-  <!-- Arabic -->
-  <a href="#" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Arabic-Native-%23D32F2F?style=for-the-badge&logo=googletranslate&logoColor=white" 
-      alt="Arabic Native" 
-    />
-  </a>
-  &nbsp;
-
-  <!-- English -->
-  <a href="https://www.linkedin.com/posts/adam-louhichi1_ielts-certification-communication-activity-7373020337950674944-pEFb" target="_blank">
-    <img 
-   src="https://img.shields.io/badge/English-Fluent%20(IELTS%207.5)-0072C6?style=for-the-badge&logo=britishairways&logoColor=white" 
-   alt="English Fluent IELTS 7.5" 
- />
-
-  </a>
-  &nbsp;
-
-  <!-- French -->
-  <a href="https://www.linkedin.com/posts/adam-louhichi1_french-tcf-c1-activity-7375936592663838720-tKgf" target="_blank">
-     <img 
-   src="https://img.shields.io/badge/French-Fluent%20(TCF%20C1)-E67E22?style=for-the-badge&logo=france&logoColor=white" 
-   alt="French Fluent TCF C1" 
- />
-
-  </a>
-
-</p>
 
 
 <h2 align="center">Featured Projects</h2>
@@ -202,7 +228,7 @@ A deep learning system for automated classification of pulmonary conditions from
 <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
