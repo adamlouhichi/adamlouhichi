@@ -100,7 +100,7 @@ Engineered an end-to-end AI-powered solution for automating resume processing an
 <ul>
 <li>Developed LLM-based pipelines with advanced batching and filtering strategies to extract structured information from unstructured CVs, reducing processing time by 50%</li>
 <li>Optimized infrastructure costs by migrating to a more cost-efficient LLM API, achieving ~60% cost reduction while maintaining high-quality extraction and matching results</li>
-<li>Built and deployed a FastAPI microservice on Google Cloud Platform, integrating seamlessly with the existing HR platform to enable scalable, automated talent analytics workflows</li>
+<li>Built and deployed a FastAPI API on Google Cloud Platform, integrating seamlessly with the existing HR platform to enable scalable, automated talent analytics workflows</li>
 <li>Implemented scoring algorithms for candidate-job matching, enabling data-driven hiring decisions</li>
 </ul>
 <p>
