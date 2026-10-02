@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/headshotphoto" width="190" height="190" style="border-radius:50%; object-fit:cover;" alt="Adam Louhichi">
+<img src="./assets/headshotphoto-circle.png" width="190" alt="Adam Louhichi">
 
 # Adam Louhichi
 
@@ -62,40 +62,38 @@ Option IA & Data · 2021 – 2026
 <table>
 <tr>
 
-<td align="center" width="25%">
-<img src="./assets/Bon d'examen AWS AI Practitioner.webp" width="130" alt="AWS Certified AI Practitioner">
+<td align="center" width="20%">
+<img src="./assets/Bon d'examen AWS AI Practitioner.webp" width="120" alt="AWS Certified AI Practitioner">
 <br><br>
 <b>AWS Certified AI Practitioner</b>
 </td>
 
-<td align="center" width="25%">
-<img src="./assets/AWSAcademyCloudFoundationsBadge.png" width="130" alt="AWS Cloud Foundations">
+<td align="center" width="20%">
+<img src="./assets/AWSAcademyCloudFoundationsBadge.png" width="120" alt="AWS Cloud Foundations">
 <br><br>
 <b>AWS Cloud Foundations</b>
 </td>
 
-<td align="center" width="25%">
-<img src="https://images.credly.com/images/7e4c4e0d-1f2d-4e4e-9e7e-0d0e5c7c8e4c/image.png" width="130" alt="NVIDIA Fundamentals of Deep Learning">
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/NVIDIA-Fundamentals_of_Deep_Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width="170" alt="NVIDIA Fundamentals of Deep Learning">
 <br><br>
 <b>NVIDIA Fundamentals of Deep Learning</b>
 </td>
 
-<td align="center" width="25%">
-<img src="https://images.credly.com/images/7c7f8f7f-7b8b-4f0a-9e0e-2e8f9c8b7c6d/image.png" width="130" alt="Cisco CCNA">
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Cisco-CCNA_Switching_%26_Routing-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" width="170" alt="Cisco CCNA">
 <br><br>
 <b>Cisco CCNA — Switching & Routing</b>
 </td>
 
+<td align="center" width="20%">
+<img src="./assets/images (3).jpg" width="120" alt="Scrum Fundamentals">
+<br><br>
+<b>Scrum Fundamentals (SFC)</b>
+</td>
+
 </tr>
 </table>
-
-<br>
-
-<img src="./assets/images (3).jpg" width="130" alt="Scrum Fundamentals">
-
-<br>
-
-<b>Scrum Fundamentals (SFC)</b>
 
 </div>
 
@@ -113,6 +111,7 @@ Option IA & Data · 2021 – 2026
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### Développement
@@ -148,6 +147,7 @@ Option IA & Data · 2021 – 2026
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### IA générative & LLM
@@ -185,91 +185,88 @@ Option IA & Data · 2021 – 2026
 
 <table>
 <tr>
-<td width="30%" valign="top">
 
-<div align="center">
+<td width="30%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/Ministère_de_la_Santé-Tunisie-555555?style=for-the-badge">
 
 <br><br>
 
-**Stagiaire PFE — Ingénieur IA**
+<b>Stagiaire PFE — Ingénieur IA</b>
 
 <br>
 
-Janvier – Juillet 2026
-
-</div>
+<sub>Janvier – Juillet 2026</sub>
 
 </td>
 
 <td width="70%" valign="top">
 
-**Solution IA intégrée à OpenProject**
+<b>Solution IA intégrée à OpenProject</b>
 
-* Facilité l’accès aux informations projet et documentaires en développant une solution IA structurée autour de deux assistants conversationnels.
-* Conçu et développé un pipeline RAG documentaire, atteignant un **Recall de 0,96** et une **Answer Correctness de 0,94**.
-* Développé un agent LangGraph permettant de consulter et modifier les données OpenProject via API, avec contrôle des permissions et validation utilisateur.
-* Déployé la solution sur l’infrastructure du Ministère avec **vLLM en inférence locale**, garantissant la souveraineté des données.
+<ul>
+<li>Facilité l’accès aux informations projet et documentaires en développant une solution IA intégrée à OpenProject, structurée autour de deux assistants conversationnels.</li>
+<li>Conçu et développé un pipeline RAG documentaire, atteignant un <b>Recall de 0,96</b> et une <b>Answer Correctness de 0,94</b>, avec recherche vectorielle, filtrage des accès, HyDE, reranking et validation des sources.</li>
+<li>Développé un agent LangGraph pour interagir avec OpenProject, permettant de consulter et modifier les données via l’API, avec contrôle des permissions et validation utilisateur avant exécution.</li>
+<li>Déployé la solution sur l’infrastructure du Ministère et géré l’infrastructure LLM avec <b>vLLM en inférence locale</b>, garantissant une stricte souveraineté des données.</li>
+</ul>
 
 </td>
 </tr>
 
 <tr>
-<td width="30%" valign="top">
 
-<div align="center">
+<td width="30%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/DataMed_Consulting-Tunisie-555555?style=for-the-badge">
 
 <br><br>
 
-**Stagiaire — IA & Développement**
+<b>Stagiaire — IA & Développement</b>
 
 <br>
 
-Mai – Juillet 2025
-
-</div>
+<sub>Mai – Juillet 2025</sub>
 
 </td>
 
 <td width="70%" valign="top">
 
-**API IA pour le recrutement**
+<b>API IA pour le recrutement</b>
 
-* Contribué au développement d’API IA avec **FastAPI** pour l’analyse, le matching et le scoring de CV/offres.
-* Réduit de **50 % le temps de traitement** et de **35 % l’utilisation des tokens** grâce au batching, au prompt engineering et à l’optimisation du contexte LLM.
-* Contribué au développement du frontend avec **React** et à son intégration avec les API de traitement et de scoring.
+<ul>
+<li>Contribué au développement d’API IA avec <b>FastAPI</b> pour l’analyse, le matching et le scoring de CV/offres, afin d’accélérer le processus de recrutement.</li>
+<li>Réduit de <b>50 % le temps de traitement</b> et de <b>35 % l’utilisation des tokens</b>, grâce au batching, au prompt engineering et à l’optimisation du contexte LLM.</li>
+<li>Contribué au développement du frontend avec <b>React</b> et à son intégration avec les API de traitement et de scoring.</li>
+</ul>
 
 </td>
 </tr>
 
 <tr>
-<td width="30%" valign="top">
 
-<div align="center">
+<td width="30%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/Huawei-Tunisie-555555?style=for-the-badge&logo=huawei&logoColor=white">
 
 <br><br>
 
-**Stagiaire — Développement & Data**
+<b>Stagiaire — Développement & Data</b>
 
 <br>
 
-Juin – Août 2024
-
-</div>
+<sub>Juin – Août 2024</sub>
 
 </td>
 
 <td width="70%" valign="top">
 
-**Automatisation du suivi des tickets infrastructure**
+<b>Automatisation du suivi des tickets infrastructure</b>
 
-* Automatisé la collecte et la structuration des informations de tickets à partir des e-mails des équipes infrastructure avec **Java/IMAP** et une base SQL.
-* Facilité le suivi et le reporting grâce à un **dashboard Power BI** présentant les incidents et leurs principaux KPI.
+<ul>
+<li>Automatisé la collecte et la structuration des informations de tickets à partir des e-mails des équipes infrastructure, en développant un module <b>Java/IMAP</b> pour extraire les données pertinentes et les alimenter dans une base SQL.</li>
+<li>Facilité le suivi et le reporting des tickets d’infrastructure en exploitant les données centralisées dans un <b>dashboard Power BI</b> présentant les incidents et leurs principaux KPI.</li>
+</ul>
 
 </td>
 </tr>
@@ -286,7 +283,9 @@ Juin – Août 2024
 
 ### Prédiction du churn client — Télécom
 
-**Projet académique**
+<sub>Projet académique</sub>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
@@ -296,7 +295,7 @@ Juin – Août 2024
 
 Modèle de **Random Forest** atteignant 95 % de précision, avec feature engineering socio-économique, Grid Search et SMOTE.
 
-Développement d’une API Flask et d’une interface web permettant la prédiction en temps réel.
+Développement d’une **API Flask** et d’une interface web permettant la prédiction en temps réel.
 
 </td>
 
@@ -306,7 +305,9 @@ Développement d’une API Flask et d’une interface web permettant la prédict
 
 ### Écosystème Web & Desktop
 
-**Projet académique**
+<sub>Projet académique</sub>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
@@ -317,7 +318,6 @@ Développement d’une API Flask et d’une interface web permettant la prédict
 Développement d’une application web avec **Symfony 5** et d’une application desktop avec **JavaFX**, partageant une base de données commune.
 
 </td>
-
 </tr>
 
 <tr>
@@ -328,7 +328,9 @@ Développement d’une application web avec **Symfony 5** et d’une application
 
 ### Suivi des visites techniques
 
-**Projet académique**
+<sub>Projet académique</sub>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white">
@@ -346,7 +348,9 @@ Développement d’une application desktop avec **C++ et Qt Designer** pour coll
 
 ### HireBridge — AI-Powered Recruitment Platform
 
-**Projet personnel**
+<sub>Projet personnel</sub>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square">
@@ -358,7 +362,6 @@ Développement d’une application desktop avec **C++ et Qt Designer** pour coll
 Plateforme de recrutement full-stack avec suivi des profils et CV, recommandation d’offres, préparation aux entretiens avec **RAG et recherche web**, évaluation des candidats et agent vocal de suivi basé sur Amazon Lex.
 
 </td>
-
 </tr>
 
 <tr>
@@ -369,7 +372,9 @@ Plateforme de recrutement full-stack avec suivi des profils et CV, recommandatio
 
 ### AI Football Scouting Platform
 
-**Projet académique — LinkUp Sport × ESPRIT**
+<sub>Projet académique — LinkUp Sport × ESPRIT</sub>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square">
 <img src="https://img.shields.io/badge/Random_Forest-555555?style=flat-square">
@@ -388,7 +393,9 @@ Plateforme de scouting basée sur plus de **30 000 données** collectées depuis
 
 ### Weather Forecasting with Deep Learning
 
-**Projet académique**
+<sub>Projet académique</sub>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
@@ -402,7 +409,6 @@ Comparaison de modèles **Simple RNN, LSTM univarié et LSTM multivarié empilé
 MAE obtenues sur le jeu de test : **2,8 °C · 1,9 °C · 1,2 °C**.
 
 </td>
-
 </tr>
 
 <tr>
@@ -413,7 +419,9 @@ MAE obtenues sur le jeu de test : **2,8 °C · 1,9 °C · 1,2 °C**.
 
 ### Pulmonary Disease Classification
 
-**Projet académique**
+<sub>Projet académique</sub>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
