@@ -29,6 +29,7 @@
 
 <table>
 <tr>
+
 <td align="center" width="50%">
 
 <img src="./assets/ISEN_Méditerranée_Logo.png" width="180" alt="ISEN Méditerranée">
@@ -44,12 +45,13 @@
 
 <img src="./assets/téléchargé (4).png" width="180" alt="ESPRIT">
 
-### Diplôme d'Ingénieur en Informatique
+### Diplôme d’Ingénieur en Informatique
 
 **ESPRIT — Tunisie**
 Option IA & Data · 2021 – 2026
 
 </td>
+
 </tr>
 </table>
 
@@ -81,7 +83,7 @@ Option IA & Data · 2021 – 2026
 </td>
 
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Cisco-CCNA_Switching_%26_Routing-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" width="170" alt="Cisco CCNA">
+<img src="https://img.shields.io/badge/Cisco-CCNA_Switching_%26_Routing-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" width="170" alt="Cisco CCNA — Switching & Routing">
 <br><br>
 <b>Cisco CCNA — Switching & Routing</b>
 </td>
@@ -144,6 +146,7 @@ Option IA & Data · 2021 – 2026
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
 
 </td>
+
 </tr>
 
 <tr>
@@ -178,6 +181,7 @@ Option IA & Data · 2021 – 2026
 <img src="https://img.shields.io/badge/CI%2FCD-555555?style=flat-square">
 
 </td>
+
 </tr>
 </table>
 
@@ -192,26 +196,23 @@ Option IA & Data · 2021 – 2026
 
 <br><br>
 
-<b>Stagiaire PFE — Ingénieur IA</b>
+### Stagiaire PFE — Ingénieur IA
 
-<br>
-
-<sub>Janvier – Juillet 2026</sub>
+<b>Janvier – Juillet 2026</b>
 
 </td>
 
 <td width="70%" valign="top">
 
-<b>Solution IA intégrée à OpenProject</b>
+### Solution IA intégrée à OpenProject
 
-<ul>
-<li>Facilité l’accès aux informations projet et documentaires en développant une solution IA intégrée à OpenProject, structurée autour de deux assistants conversationnels.</li>
-<li>Conçu et développé un pipeline RAG documentaire, atteignant un <b>Recall de 0,96</b> et une <b>Answer Correctness de 0,94</b>, avec recherche vectorielle, filtrage des accès, HyDE, reranking et validation des sources.</li>
-<li>Développé un agent LangGraph pour interagir avec OpenProject, permettant de consulter et modifier les données via l’API, avec contrôle des permissions et validation utilisateur avant exécution.</li>
-<li>Déployé la solution sur l’infrastructure du Ministère et géré l’infrastructure LLM avec <b>vLLM en inférence locale</b>, garantissant une stricte souveraineté des données.</li>
-</ul>
+* Facilité l’accès aux informations projet et documentaires en développant une solution IA intégrée à OpenProject, structurée autour de **deux assistants conversationnels**.
+* Conçu un **pipeline RAG documentaire** atteignant un Recall de **0,96** et une Answer Correctness de **0,94**, avec recherche vectorielle, filtrage des accès, HyDE, reranking et validation des sources.
+* Développé un **agent LangGraph** permettant de consulter et modifier les données OpenProject via son API, avec contrôle des permissions et validation utilisateur avant exécution.
+* Déployé la solution sur l’infrastructure du Ministère avec **vLLM en inférence locale**, garantissant la souveraineté des données.
 
 </td>
+
 </tr>
 
 <tr>
@@ -222,25 +223,22 @@ Option IA & Data · 2021 – 2026
 
 <br><br>
 
-<b>Stagiaire — IA & Développement</b>
+### Stagiaire — IA & Développement
 
-<br>
-
-<sub>Mai – Juillet 2025</sub>
+<b>Mai – Juillet 2025</b>
 
 </td>
 
 <td width="70%" valign="top">
 
-<b>API IA pour le recrutement</b>
+### API IA pour le recrutement
 
-<ul>
-<li>Contribué au développement d’API IA avec <b>FastAPI</b> pour l’analyse, le matching et le scoring de CV/offres, afin d’accélérer le processus de recrutement.</li>
-<li>Réduit de <b>50 % le temps de traitement</b> et de <b>35 % l’utilisation des tokens</b>, grâce au batching, au prompt engineering et à l’optimisation du contexte LLM.</li>
-<li>Contribué au développement du frontend avec <b>React</b> et à son intégration avec les API de traitement et de scoring.</li>
-</ul>
+* Contribué au développement d’**API IA avec FastAPI** pour l’analyse, le matching et le scoring de CV et d’offres d’emploi.
+* Réduit de **50 % le temps de traitement** et de **35 % l’utilisation des tokens** grâce au batching, au prompt engineering et à l’optimisation du contexte LLM.
+* Contribué au développement du **frontend React** et à son intégration avec les API de traitement et de scoring.
 
 </td>
+
 </tr>
 
 <tr>
@@ -251,192 +249,132 @@ Option IA & Data · 2021 – 2026
 
 <br><br>
 
-<b>Stagiaire — Développement & Data</b>
+### Stagiaire — Développement & Data
 
-<br>
-
-<sub>Juin – Août 2024</sub>
+<b>Juin – Août 2024</b>
 
 </td>
 
 <td width="70%" valign="top">
 
-<b>Automatisation du suivi des tickets infrastructure</b>
+### Automatisation du suivi des tickets infrastructure
 
-<ul>
-<li>Automatisé la collecte et la structuration des informations de tickets à partir des e-mails des équipes infrastructure, en développant un module <b>Java/IMAP</b> pour extraire les données pertinentes et les alimenter dans une base SQL.</li>
-<li>Facilité le suivi et le reporting des tickets d’infrastructure en exploitant les données centralisées dans un <b>dashboard Power BI</b> présentant les incidents et leurs principaux KPI.</li>
-</ul>
+* Automatisé la collecte et la structuration des informations de tickets à partir des e-mails des équipes infrastructure avec un module **Java/IMAP**.
+* Alimenté une **base SQL** avec les informations extraites afin de centraliser les données des tickets.
+* Développé un **dashboard Power BI** pour faciliter le suivi des incidents et la visualisation des principaux KPI.
 
 </td>
+
 </tr>
 </table>
 
-## Projets
+## Projets académiques
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### Prédiction du churn client — Télécom
 
 <sub>Projet académique</sub>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
 
-</div>
-
-Modèle de **Random Forest** atteignant 95 % de précision, avec feature engineering socio-économique, Grid Search et SMOTE.
-
-Développement d’une **API Flask** et d’une interface web permettant la prédiction en temps réel.
+* Développé un modèle **Random Forest** atteignant **95 % de précision** pour prédire le churn client.
+* Réalisé du **feature engineering**, une recherche d’hyperparamètres avec **Grid Search** et un rééquilibrage des classes avec **SMOTE**.
+* Exposé le modèle via une **API Flask** avec interface web de prédiction en temps réel.
 
 </td>
 
 <td width="50%" valign="top">
-
-<div align="center">
 
 ### Écosystème Web & Desktop
 
 <sub>Projet académique</sub>
 
-<br><br>
-
 <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/JavaFX-5382A1?style=flat-square">
 
-</div>
-
-Développement d’une application web avec **Symfony 5** et d’une application desktop avec **JavaFX**, partageant une base de données commune.
+* Développé une **application web avec Symfony 5** et une application desktop avec **JavaFX**.
+* Mis en place une **base de données partagée** entre les deux applications.
+* Conçu les différentes fonctionnalités autour d’un même système de gestion de données.
 
 </td>
+
 </tr>
 
 <tr>
 
 <td width="50%" valign="top">
-
-<div align="center">
 
 ### Suivi des visites techniques
 
 <sub>Projet académique</sub>
 
-<br><br>
-
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square">
 
-</div>
-
-Développement d’une application desktop avec **C++ et Qt Designer** pour collecter et visualiser les données liées aux visites techniques depuis une base SQL.
+* Développé une **application desktop en C++** avec Qt Designer.
+* Permis la **collecte et la gestion** des données relatives aux visites techniques.
+* Intégré une base **SQL** pour stocker et exploiter les informations.
 
 </td>
 
 <td width="50%" valign="top">
-
-<div align="center">
-
-### HireBridge — AI-Powered Recruitment Platform
-
-<sub>Projet personnel</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square">
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-
-</div>
-
-Plateforme de recrutement full-stack avec suivi des profils et CV, recommandation d’offres, préparation aux entretiens avec **RAG et recherche web**, évaluation des candidats et agent vocal de suivi basé sur Amazon Lex.
-
-</td>
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
 
 ### AI Football Scouting Platform
 
 <sub>Projet académique — LinkUp Sport × ESPRIT</sub>
 
-<br><br>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square">
-<img src="https://img.shields.io/badge/Random_Forest-555555?style=flat-square">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
 
-</div>
-
-Plateforme de scouting basée sur plus de **30 000 données** collectées depuis Transfermarkt et SofaScore, avec développement de modèles supervisés pour l’analyse des joueurs.
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-### Weather Forecasting with Deep Learning
-
-<sub>Projet académique</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
-<img src="https://img.shields.io/badge/LSTM-555555?style=flat-square">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-
-</div>
-
-Comparaison de modèles **Simple RNN, LSTM univarié et LSTM multivarié empilé** pour la prévision météorologique.
-
-MAE obtenues sur le jeu de test : **2,8 °C · 1,9 °C · 1,2 °C**.
+* Collecté plus de **30 000 données** depuis Transfermarkt et SofaScore.
+* Développé et comparé plusieurs modèles supervisés : **XGBoost, Random Forest, GBM et réseaux de neurones**.
+* Conçu une plateforme web avec **React et Supabase** pour exploiter les résultats du scouting.
 
 </td>
+
 </tr>
 
 <tr>
 
 <td width="50%" valign="top">
 
-<div align="center">
+### Weather Forecasting with Deep Learning
+
+<sub>Projet académique</sub>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+
+* Comparé un **Simple RNN**, un **LSTM univarié** et un **LSTM multivarié empilé** pour la prévision météorologique.
+* Obtenu des MAE de **2,8 °C, 1,9 °C et 1,2 °C** sur le jeu de test.
+* Développé une API **Flask** pour exposer les prédictions.
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Pulmonary Disease Classification
 
 <sub>Projet académique</sub>
 
-<br><br>
-
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
 <img src="https://img.shields.io/badge/CNN-555555?style=flat-square">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
 
-</div>
-
-Développement d’un modèle **CNN** pour la classification de maladies pulmonaires, avec preprocessing et data augmentation.
-
-Précision obtenue : **94,9 %**.
-
-</td>
-
-<td width="50%" valign="top">
+* Développé un modèle **CNN** pour la classification de maladies pulmonaires.
+* Appliqué des techniques de **preprocessing et data augmentation** aux images médicales.
+* Atteint une **précision de 94,9 %** sur les données d’évaluation.
 
 </td>
 
