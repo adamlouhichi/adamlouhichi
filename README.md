@@ -253,54 +253,6 @@ Développement d’une **API Flask** et d’une interface web permettant la pré
 
 <td width="50%" valign="top">
 
-### HireBridge — AI Recruitment Platform
-
-**Projet personnel / académique**
-
-`Django` `LangChain` `LangGraph` `FastAPI` `MongoDB`
-
-Plateforme de recrutement full-stack avec recommandation d’offres par IA, suivi des profils et CV, préparation aux entretiens avec **RAG et recherche web**, évaluation des candidats et agent vocal de suivi basé sur Amazon Lex.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### AI Football Scouting Platform
-
-**Projet académique — LinkUp Sport × ESPRIT**
-
-`Python` `XGBoost` `Random Forest` `React` `Supabase`
-
-Plateforme de scouting basée sur plus de **30 000 données** collectées depuis Transfermarkt et SofaScore.
-
-Développement et comparaison de modèles supervisés pour l’analyse et l’évaluation des joueurs.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Weather Forecasting with Deep Learning
-
-**Projet académique**
-
-`TensorFlow` `Keras` `LSTM` `RNN` `Flask`
-
-Comparaison de modèles **Simple RNN, LSTM univarié et LSTM multivarié empilé** pour la prévision météorologique.
-
-MAE obtenues sur le jeu de test : **2,8 °C · 1,9 °C · 1,2 °C**.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
 ### Écosystème Web & Desktop
 
 **Projet académique**
@@ -308,20 +260,6 @@ MAE obtenues sur le jeu de test : **2,8 °C · 1,9 °C · 1,2 °C**.
 `Symfony 5` `Java` `JavaFX`
 
 Développement d’une application web avec **Symfony 5** et d’une application desktop avec **JavaFX**, partageant une base de données commune.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Pulmonary Disease Classification
-
-**Projet académique**
-
-`TensorFlow` `Keras` `CNN` `Flask`
-
-Développement d’un modèle **CNN** pour la classification de maladies pulmonaires, avec preprocessing et data augmentation.
-
-Précision obtenue : **94,9 %**.
 
 </td>
 
@@ -337,7 +275,67 @@ Précision obtenue : **94,9 %**.
 
 `C++` `Qt` `SQL`
 
-Développement d’une application desktop avec **C++ et Qt Designer** pour collecter, gérer et visualiser les données liées aux visites techniques depuis une base SQL.
+Développement d’une application desktop avec **C++ et Qt Designer** pour collecter et visualiser les données liées aux visites techniques depuis une base SQL.
+
+</td>
+
+<td width="50%" valign="top">
+
+### HireBridge — AI-Powered Recruitment Platform
+
+**Projet académique**
+
+`Django` `LangChain` `LangGraph` `FastAPI` `MongoDB`
+
+Plateforme de recrutement full-stack intégrant recommandation d’offres, suivi des profils et CV, préparation aux entretiens avec RAG et recherche web, ainsi qu’évaluation des candidats.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### AI Football Scouting Platform
+
+**Projet académique — LinkUp Sport × ESPRIT**
+
+`XGBoost` `Random Forest` `React` `Supabase`
+
+Plateforme de scouting basée sur plus de **30 000 données** collectées depuis Transfermarkt et SofaScore, avec développement de modèles supervisés pour l’analyse des joueurs.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Weather Forecasting with Deep Learning
+
+**Projet académique**
+
+`TensorFlow` `Keras` `RNN` `LSTM` `Flask`
+
+Comparaison de modèles Simple RNN, LSTM univarié et LSTM multivarié empilé pour la prévision météorologique.
+
+MAE obtenues sur le jeu de test : **2,8 °C · 1,9 °C · 1,2 °C**.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Pulmonary Disease Classification
+
+**Projet académique**
+
+`TensorFlow` `Keras` `CNN` `Flask`
+
+Développement d’un modèle **CNN** pour la classification de maladies pulmonaires, avec preprocessing et data augmentation.
+
+Précision obtenue : **94,9 %**.
 
 </td>
 
