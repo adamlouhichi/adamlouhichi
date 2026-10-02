@@ -23,6 +23,8 @@
 
 </div>
 
+---
+
 ## Formation
 
 <div align="center">
@@ -32,7 +34,7 @@
 
 <td align="center" width="50%">
 
-<img src="./assets/ISEN_Méditerranée_Logo.png" width="180" alt="ISEN Méditerranée">
+<img src="./assets/ISEN_Méditerranée_Logo.png" width="190" alt="ISEN Méditerranée">
 
 ### MSc Intelligent Systems & Cloud Engineering
 
@@ -43,7 +45,7 @@
 
 <td align="center" width="50%">
 
-<img src="./assets/téléchargé (4).png" width="180" alt="ESPRIT">
+<img src="./assets/téléchargé (4).png" width="190" alt="ESPRIT">
 
 ### Diplôme d’Ingénieur en Informatique
 
@@ -77,13 +79,13 @@ Option IA & Data · 2021 – 2026
 </td>
 
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/NVIDIA-Fundamentals_of_Deep_Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width="170" alt="NVIDIA Fundamentals of Deep Learning">
+<img src="./assets/NVIDIA Fundamentals of Deep Learning.png" width="150" alt="NVIDIA Fundamentals of Deep Learning">
 <br><br>
 <b>NVIDIA Fundamentals of Deep Learning</b>
 </td>
 
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Cisco-CCNA_Switching_%26_Routing-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" width="170" alt="Cisco CCNA — Switching & Routing">
+<img src="./assets/Cisco CCNA Switching and Routing.png" width="150" alt="Cisco CCNA — Switching & Routing">
 <br><br>
 <b>Cisco CCNA — Switching & Routing</b>
 </td>
@@ -192,7 +194,7 @@ Option IA & Data · 2021 – 2026
 
 <td width="30%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/Ministère_de_la_Santé-Tunisie-555555?style=for-the-badge">
+<img src="./assets/ministère de la santé.png" width="150" alt="Ministère de la Santé">
 
 <br><br>
 
@@ -219,7 +221,7 @@ Option IA & Data · 2021 – 2026
 
 <td width="30%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/DataMed_Consulting-Tunisie-555555?style=for-the-badge">
+<img src="./assets/DataMed Consulting.png" width="150" alt="DataMed Consulting">
 
 <br><br>
 
@@ -245,7 +247,7 @@ Option IA & Data · 2021 – 2026
 
 <td width="30%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/Huawei-Tunisie-555555?style=for-the-badge&logo=huawei&logoColor=white">
+<img src="./assets/Huawei.png" width="150" alt="Huawei">
 
 <br><br>
 
@@ -279,6 +281,8 @@ Option IA & Data · 2021 – 2026
 
 <sub>Projet académique</sub>
 
+<br>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
@@ -294,6 +298,8 @@ Option IA & Data · 2021 – 2026
 ### Écosystème Web & Desktop
 
 <sub>Projet académique</sub>
+
+<br>
 
 <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
@@ -315,6 +321,8 @@ Option IA & Data · 2021 – 2026
 
 <sub>Projet académique</sub>
 
+<br>
+
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square">
@@ -330,6 +338,8 @@ Option IA & Data · 2021 – 2026
 ### AI Football Scouting Platform
 
 <sub>Projet académique — LinkUp Sport × ESPRIT</sub>
+
+<br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square">
@@ -352,6 +362,8 @@ Option IA & Data · 2021 – 2026
 
 <sub>Projet académique</sub>
 
+<br>
+
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
@@ -367,6 +379,8 @@ Option IA & Data · 2021 – 2026
 ### Pulmonary Disease Classification
 
 <sub>Projet académique</sub>
+
+<br>
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
