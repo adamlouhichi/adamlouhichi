@@ -297,7 +297,7 @@ Plateforme de scouting développée dans le cadre d'une collaboration **LinkUp S
 
 **Technologies**
 
-`Python` `TensorFlow` `Keras` `RNN` `LSTM` `Flask`
+`Python` `TensorFlow` `Keras` `Flask`
 
 </td>
 
