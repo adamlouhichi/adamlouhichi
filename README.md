@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/headshotphoto-circle.png" width="190" alt="Adam Louhichi">
+<img src="https://github.com/adamlouhichi/adamlouhichi/blob/main/assets/headshotphoto-circle.png?raw=true" width="190" alt="Adam Louhichi">
 
 # Adam Louhichi
 
@@ -23,8 +23,6 @@
 
 </div>
 
----
-
 ## Formation
 
 <div align="center">
@@ -34,7 +32,7 @@
 
 <td align="center" width="50%">
 
-<img src="./assets/ISEN_Méditerranée_Logo.png" width="190" alt="ISEN Méditerranée">
+<img src="https://github.com/adamlouhichi/adamlouhichi/blob/main/assets/ISEN_M%C3%A9diterran%C3%A9e_Logo.png?raw=true" width="190" alt="ISEN Méditerranée">
 
 ### MSc Intelligent Systems & Cloud Engineering
 
@@ -45,7 +43,7 @@
 
 <td align="center" width="50%">
 
-<img src="./assets/téléchargé (4).png" width="190" alt="ESPRIT">
+<img src="https://github.com/adamlouhichi/adamlouhichi/blob/main/assets/t%C3%A9l%C3%A9charg%C3%A9%20%284%29.png?raw=true" width="190" alt="ESPRIT">
 
 ### Diplôme d’Ingénieur en Informatique
 
@@ -67,31 +65,31 @@ Option IA & Data · 2021 – 2026
 <tr>
 
 <td align="center" width="20%">
-<img src="./assets/Bon d'examen AWS AI Practitioner.webp" width="120" alt="AWS Certified AI Practitioner">
+<img src="https://github.com/adamlouhichi/adamlouhichi/blob/main/assets/Bon%20d'examen%20AWS%20AI%20Practitioner.webp?raw=true" width="120" alt="AWS Certified AI Practitioner">
 <br><br>
 <b>AWS Certified AI Practitioner</b>
 </td>
 
 <td align="center" width="20%">
-<img src="./assets/AWSAcademyCloudFoundationsBadge.png" width="120" alt="AWS Cloud Foundations">
+<img src="https://github.com/adamlouhichi/adamlouhichi/blob/main/assets/AWSAcademyCloudFoundationsBadge.png?raw=true" width="120" alt="AWS Cloud Foundations">
 <br><br>
 <b>AWS Cloud Foundations</b>
 </td>
 
 <td align="center" width="20%">
-<img src="./assets/NVIDIA Fundamentals of Deep Learning.png" width="150" alt="NVIDIA Fundamentals of Deep Learning">
+<img src="https://github.com/adamlouhichi/adamlouhichi/blob/main/assets/NVIDIA%20Fundamentals%20of%20Deep%20Learning.png?raw=true" width="150" alt="NVIDIA Fundamentals of Deep Learning">
 <br><br>
 <b>NVIDIA Fundamentals of Deep Learning</b>
 </td>
 
 <td align="center" width="20%">
-<img src="./assets/Cisco CCNA Switching and Routing.png" width="150" alt="Cisco CCNA — Switching & Routing">
+<img src="https://github.com/adamlouhichi/adamlouhichi/blob/main/assets/Cisco%20CCNA%20Switching%20and%20Routing.png?raw=true" width="150" alt="Cisco CCNA — Switching & Routing">
 <br><br>
 <b>Cisco CCNA — Switching & Routing</b>
 </td>
 
 <td align="center" width="20%">
-<img src="./assets/images (3).jpg" width="120" alt="Scrum Fundamentals">
+<img src="https://github.com/adamlouhichi/adamlouhichi/blob/main/assets/images%20%283%29.jpg?raw=true" width="120" alt="Scrum Fundamentals">
 <br><br>
 <b>Scrum Fundamentals (SFC)</b>
 </td>
@@ -194,7 +192,7 @@ Option IA & Data · 2021 – 2026
 
 <td width="30%" valign="top" align="center">
 
-<img src="./assets/ministère de la santé.png" width="150" alt="Ministère de la Santé">
+<img src="https://github.com/adamlouhichi/adamlouhichi/blob/main/assets/minist%C3%A8re%20de%20la%20sant%C3%A9.png?raw=true" width="150" alt="Ministère de la Santé">
 
 <br><br>
 
@@ -221,7 +219,7 @@ Option IA & Data · 2021 – 2026
 
 <td width="30%" valign="top" align="center">
 
-<img src="./assets/DataMed Consulting.png" width="150" alt="DataMed Consulting">
+<img src="https://github.com/adamlouhichi/adamlouhichi/blob/main/assets/DataMed%20Consulting.png?raw=true" width="150" alt="DataMed Consulting">
 
 <br><br>
 
@@ -247,7 +245,7 @@ Option IA & Data · 2021 – 2026
 
 <td width="30%" valign="top" align="center">
 
-<img src="./assets/Huawei.png" width="150" alt="Huawei">
+<img src="https://github.com/adamlouhichi/adamlouhichi/blob/main/assets/Huawei.png?raw=true" width="150" alt="Huawei">
 
 <br><br>
 
