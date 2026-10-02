@@ -9,17 +9,17 @@
     <img src="https://img.shields.io/badge/Email-adamlouhichi3%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/adam-louhichi1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Adam%20Louhichi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="tel:+33746530232">
+    <img src="https://img.shields.io/badge/Téléphone-+33%207%2046%2053%2002%2032-333333?style=flat-square&logo=phone&logoColor=white" alt="Téléphone"/>
   </a>
   &nbsp;
-  <a href="https://github.com/adamlouhichi">
-    <img src="https://img.shields.io/badge/GitHub-adamlouhichi-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://www.linkedin.com/in/adam-louhichi1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Adam%20Louhichi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  Toulon, France
+  <strong>Toulon, France</strong>
   &nbsp;•&nbsp;
   Recherche un stage de 4 à 6 mois dès février 2027
 </p>
@@ -32,8 +32,8 @@
 <tr>
 <td width="20%" align="center">
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/isen.svg"
-  width="90"
+<img src="./assets/ISEN_Méditerranée_Logo.png"
+  width="110"
   alt="ISEN Méditerranée"/>
 
 </td>
@@ -50,7 +50,7 @@ ISEN Méditerranée — Toulon<br>
 <tr>
 <td width="20%" align="center">
 
-<img src="https://github.com/adamlouhichi/adamlouhichi/blob/main/t%C3%A9l%C3%A9charg%C3%A9%20(4).png?raw=true"
+<img src="./assets/téléchargé (4).png"
   width="120"
   alt="ESPRIT"/>
 
@@ -75,49 +75,61 @@ ESPRIT — Option IA & Data<br>
 
 <td width="25%" align="center">
 
-<img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob"
-  width="90"
-  alt="AWS"/>
+<img src="./assets/Bon d'examen AWS AI Practitioner.webp"
+  width="100"
+  alt="AWS Certified AI Practitioner"/>
 
 <br><br>
 
 <strong>AWS Certified AI Practitioner</strong>
 
+<br>
+<sub>Amazon Web Services</sub>
+
 </td>
 
 <td width="25%" align="center">
 
-<img src="https://images.credly.com/images/6b9c7c8a-7f2f-4f2d-8d2f-9a4f2f6d2f8f/blob.png"
-  width="90"
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+  width="100"
   alt="AWS"/>
 
 <br><br>
 
 <strong>AWS Cloud Foundations</strong>
 
+<br>
+<sub>Amazon Web Services</sub>
+
 </td>
 
 <td width="25%" align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/2/21/Nvidia_logo.svg/1280px-Nvidia_logo.svg.png"
-  width="90"
+  width="100"
   alt="NVIDIA"/>
 
 <br><br>
 
 <strong>Fundamentals of Deep Learning</strong>
 
+<br>
+<sub>NVIDIA Deep Learning Institute</sub>
+
 </td>
 
 <td width="25%" align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg"
-  width="90"
+  width="100"
   alt="Cisco"/>
 
 <br><br>
 
 <strong>CCNA – Switching & Routing</strong>
+
+<br>
+<sub>Cisco Networking Academy</sub>
 
 </td>
 
@@ -160,7 +172,7 @@ ESPRIT — Option IA & Data<br>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/API%20REST-333333?style=flat-square"/>
 
 </td>
 
@@ -187,7 +199,7 @@ ESPRIT — Option IA & Data<br>
 ### IA générative & LLM
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
 <img src="https://img.shields.io/badge/vLLM-5A67D8?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square"/>
@@ -292,7 +304,6 @@ ESPRIT — Option IA & Data<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/LLM-333333?style=flat-square"/>
 
 </td>
 </tr>
@@ -329,7 +340,7 @@ ESPRIT — Option IA & Data<br>
 </ul>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
 </td>
@@ -343,7 +354,7 @@ ESPRIT — Option IA & Data<br>
 <h3>HireBridge — Plateforme de recrutement intégrant l’IA</h3>
 
 <p>
-<strong>Projet académique | Django • LangChain • LangGraph • FastAPI • Amazon Lex • MongoDB</strong>
+<strong>Django • LangChain • LangGraph • FastAPI • Amazon Lex • MongoDB</strong>
 </p>
 
 <p>
@@ -516,6 +527,4 @@ Application desktop permettant de collecter, gérer et visualiser les informatio
   <a href="https://www.linkedin.com/in/adam-louhichi1/">LinkedIn</a>
   &nbsp;•&nbsp;
   <a href="mailto:adamlouhichi3@gmail.com">Email</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/adamlouhichi">GitHub</a>
 </p>
