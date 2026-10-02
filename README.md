@@ -16,16 +16,15 @@ Expérience en développement logiciel, IA générative et Data.
 <br>
 
 <a href="mailto:adamlouhichi3@gmail.com">
-<img src="https://img.shields.io/badge/Email-adamlouhichi3%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-adamlouhichi3%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="tel:+33746530232">
-<img src="https://img.shields.io/badge/Téléphone-%2B33%207%2046%2053%2002%2032-333333?style=flat-square&logo=phone&logoColor=white">
+<img src="https://img.shields.io/badge/Téléphone-%2B33%207%2046%2053%2002%2032-333333?style=for-the-badge&logo=phone&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/adam-louhichi1/">
-<img src="https://img.shields.io/badge/LinkedIn-Adam%20Louhichi-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Adam%20Louhichi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<img src="https://img.shields.io/badge/Toulon-France-333333?style=flat-square&logo=googlemaps&logoColor=white">
-
+<img src="https://img.shields.io/badge/Toulon-France-333333?style=for-the-badge&logo=googlemaps&logoColor=white">
 </div>
 
 <h2 align="center">Formation</h2>
