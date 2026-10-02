@@ -108,9 +108,9 @@ Option IA & Data · 2021 – 2026
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Français-C1%20·%20TCF-333333?style=flat-square">
-<img src="https://img.shields.io/badge/Anglais-C1%20·%20IELTS%207.5-333333?style=flat-square">
-<img src="https://img.shields.io/badge/Arabe-Langue%20maternelle-333333?style=flat-square">
+<img src="https://img.shields.io/badge/Français-C1%20%C2%B7%20TCF-333333?style=for-the-badge">
+<img src="https://img.shields.io/badge/Anglais-C1%20%C2%B7%20IELTS%207.5-333333?style=for-the-badge">
+<img src="https://img.shields.io/badge/Arabe-Langue%20maternelle-333333?style=for-the-badge">
 
 </div>
 
@@ -198,7 +198,7 @@ Option IA & Data · 2021 – 2026
 
 <td width="30%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/adamlouhichi/adamlouhichi/main/assets/ministere%20de%20sante%20logo.jpg" width="150" alt="Ministère de la Santé">
+<img src="https://raw.githubusercontent.com/adamlouhichi/adamlouhichi/main/assets/ministere%20de%20sante%20logo.jpg" width="170" alt="Ministère de la Santé">
 
 <br><br>
 
@@ -225,7 +225,7 @@ Option IA & Data · 2021 – 2026
 
 <td width="30%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/adamlouhichi/adamlouhichi/main/assets/datamed_logo.avif" width="150" alt="DataMed Consulting">
+<img src="https://raw.githubusercontent.com/adamlouhichi/adamlouhichi/main/assets/datamed_logo.avif" width="170" alt="DataMed Consulting">
 
 <br><br>
 
@@ -251,7 +251,7 @@ Option IA & Data · 2021 – 2026
 
 <td width="30%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/adamlouhichi/adamlouhichi/main/assets/huawei%20logo.webp" width="150" alt="Huawei">
+<img src="https://raw.githubusercontent.com/adamlouhichi/adamlouhichi/main/assets/huawei%20logo.webp" width="170" alt="Huawei">
 
 <br><br>
 
